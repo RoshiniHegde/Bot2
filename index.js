@@ -3,7 +3,7 @@
 const Restify = require("restify");
 
 const server = Restify.createServer({
-    name: CafeBot
+    name: CafeBot2
 });
 
 const port_num = 8080; // to be decided
