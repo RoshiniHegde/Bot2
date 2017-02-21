@@ -10,7 +10,7 @@
     "Express"
   ],
   "scripts": {
-    "start": "node webhook.js"
+    "start": "node index.js"
   },
   "homepage": "https://github.com/CiscoDevNet/node-sparkbot-samples#readme",
   "repository": {
